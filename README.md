@@ -26,29 +26,26 @@
 
 ## Lógica de Programação
 
-| - Computador
-| -- Máquina que extrai dado
-| -- Processar: Realizar operações nos dados de entrada
-| - Dado: é o que pode ser processado
-| - Informação: resultado do processamento
-| - Processamento de dado: Entrada (dados) > Processamento > Saida (informação)
+- Computador
+  -- Máquina que extrai dado
+  -- Processar: Realizar operações nos dados de entrada
+- Dado: é o que pode ser processado
+- Informação: resultado do processamento
+- Processamento de dado: Entrada (dados) > Processamento > Saida (informação)
 
-| E a lógica?
-| Lógica é aquilo q faz sentido
-|
-|
-| Como escrever um programa?
-| - Aplicar a lógica para descrever os passos para resolver um problema em ordem de execução
-|
-| A lófica de programação
-| - É a tecnica de sequenciar pensamentos, passos, fluxos de dados para atingir um objetivo: a informação
-| - A sequencia de passos, instruçõens que o computador deve seguir é conhecida como ALGORITMO
-|
-| Algoritmo
-| - Sequência lógica e finita de instruções que resolvem um problema
-| - Exemplo: receita de bolo, manual de instrução
-| - Nem todo o algoritmo é um programa de computador, mas todo o programa de computador é algoritmo
-| - Quem viabliza o funcionamento dos algoritimos nos computadores: linguagens de programação
+E a lógica?
+Lógica é aquilo q faz sentido
+Como escrever um programa?
+
+- Aplicar a lógica para descrever os passos para resolver um problema em ordem de execução
+  A lófica de programação
+- É a tecnica de sequenciar pensamentos, passos, fluxos de dados para atingir um objetivo: a informação
+- A sequencia de passos, instruçõens que o computador deve seguir é conhecida como ALGORITMO
+  Algoritmo
+- Sequência lógica e finita de instruções que resolvem um problema
+- Exemplo: receita de bolo, manual de instrução
+- Nem todo o algoritmo é um programa de computador, mas todo o programa de computador é algoritmo
+- Quem viabliza o funcionamento dos algoritimos nos computadores: linguagens de programação
 
 ### Algoritmo para calcular a média de 3 números
 
@@ -64,54 +61,3 @@
 
 - Mover todos os discos para a direita, com o menor número de movimentos possivel, sem colocar um disco em cima de um disco menor: https://www.somatematica.com.br/jogos/hanoi/
 - Jogos: https://www.somatematica.com.br/jogos.php
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
-  |
